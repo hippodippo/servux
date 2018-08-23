@@ -6,5 +6,5 @@ A Web Framework for node that puts UX first.
 const servux = require('servux');
 const app = servux();
 
-// This is a Place Holder.
+// This is a Place Holder. Servux is still in development.
 ```
