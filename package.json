@@ -1,0 +1,27 @@
+{
+  "name": "servux",
+  "version": "0.0.1",
+  "description": "A Web Framework for node that puts UX first.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayceeingram/servux.git"
+  },
+  "keywords": [
+    "web",
+    "framework",
+    "node",
+    "javascript",
+    "minimal",
+    "awesome"
+  ],
+  "author": "Kaycee Ingram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kayceeingram/servux/issues"
+  },
+  "homepage": "https://github.com/kayceeingram/servux#readme"
+}
