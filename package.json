@@ -1,6 +1,6 @@
 {
   "name": "servux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Web Framework for node that puts UX first.",
   "main": "index.js",
   "scripts": {
