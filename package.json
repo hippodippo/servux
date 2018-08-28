@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/kayceeingram/servux/issues"
   },
-  "homepage": "https://github.com/kayceeingram/servux#readme"
+  "homepage": "https://github.com/kayceeingram/servux#readme",
+  "dependencies": {
+    "path-to-regexp": "^2.4.0"
+  }
 }
